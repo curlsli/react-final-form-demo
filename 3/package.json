@@ -1,0 +1,36 @@
+{
+  "name": "react-final-form-hooks-simple-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "forms",
+    "react",
+    "hooks",
+    "final-form",
+    "react-final-form"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "final-form": "4.10.0",
+    "final-form-focus": "^1.1.2",
+    "react": "^17.0.1",
+    "react-dom": "^16.13.1",
+    "react-final-form": "^6.5.2",
+    "react-final-form-hooks": "1.0.0-alpha.1",
+    "react-scripts": "2.0.3",
+    "styled-components": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
